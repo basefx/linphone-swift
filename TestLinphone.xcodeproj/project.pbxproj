@@ -83,6 +83,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		355382901ADE8D1900738BB7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		35689D231ADD1BC500009A80 /* libxml2.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libxml2.a; path = "liblinphone-sdk/apple-darwin/lib/libxml2.a"; sourceTree = "<group>"; };
 		35689D241ADD1BC500009A80 /* libxml2lpc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libxml2lpc.a; path = "liblinphone-sdk/apple-darwin/lib/libxml2lpc.a"; sourceTree = "<group>"; };
 		35689D251ADD1BC500009A80 /* libzrtpcpp.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libzrtpcpp.a; path = "liblinphone-sdk/apple-darwin/lib/libzrtpcpp.a"; sourceTree = "<group>"; };
@@ -295,6 +296,7 @@
 		35B3692E1AD70E6D006A1C1F = {
 			isa = PBXGroup;
 			children = (
+				355382901ADE8D1900738BB7 /* README.md */,
 				35689DB81ADD57D600009A80 /* Resources */,
 				35689DB71ADD49A600009A80 /* Frameworks */,
 				35B369391AD70E6D006A1C1F /* TestLinphone */,
